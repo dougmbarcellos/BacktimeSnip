@@ -1,7 +1,7 @@
 # BacktimeSnip
 Aplicação Java para cálculo de snip no jogo Tribal Wars. Implementação feita em 2016.
 
-<img src="https://raw.githubusercontent.com/dowgsss/BacktimeSnip/master/.github/screenshot.png">
+<img src="https://raw.githubusercontent.com/dowgsss/BacktimeSnip/master/screenshot.png">
 
 # Compilação e Execução
 Para compilar e executar, basta executar os comandos abaixo dentro do projeto:
